@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionepdate",
+        "uuid": 10709190,
+        "checksum": "oucvg3"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
